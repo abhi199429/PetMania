@@ -1,1 +1,3 @@
-# PetMania1
+# PetMania
+
+This repository has an android application which mainly concerns about Users want to spend their quality time with their pets. A registered user can find nearby events and meetups for their pets to spend quality time with them. I have used "Meetup API" to process the latitude and longitude of various events along side with other useful information. In addition, I also used Google Cloud Platform to have access of Google Map API, Google Places API and other APIs. Google places API is useful to find nearby pet supply stores for users. I also added a module through which one can create their own event at desired place. A useful feature of finding only events neaby within radius of 30 miles was added too
