@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/petstores"
+        android:title="@string/option_petstores"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/events"
+        android:title="@string/option_events"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/meetup"
+        android:title="Nearby Meetups"
+        app:showAsAction="never"/>
+
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        app:showAsAction="never"/>
+
+</menu>
